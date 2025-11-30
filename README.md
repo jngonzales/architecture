@@ -596,33 +596,6 @@ flowchart LR
     Current -->|Expand| Full
 ```
 
-## Development Timeline
-
-```mermaid
-gantt
-    title Roadmap to Full Platform
-    dateFormat YYYY-MM-DD
-    section Foundation
-    Current Build           :done, 2025-01-01, 2d
-    Database Enhancement    :2025-01-03, 7d
-    Audit Logging          :2025-01-10, 5d
-    section Investor
-    Investor Role          :2025-01-15, 7d
-    Funding Workflow       :2025-01-22, 7d
-    section Documents
-    PDF Generator          :2025-01-29, 7d
-    DocuSign Integration   :2025-02-05, 7d
-    section Analytics
-    Dashboard              :2025-02-12, 10d
-    Reports                :2025-02-22, 5d
-    section Integrations
-    PropStream             :2025-02-27, 5d
-    Email SMS              :2025-03-04, 7d
-    section Polish
-    Testing                :2025-03-11, 7d
-    Launch                 :milestone, 2025-03-18, 0d
-```
-
 ## Feature Completion
 
 ```mermaid
