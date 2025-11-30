@@ -7,7 +7,7 @@ flowchart TB
         Admin["👑 Admin<br/>✅ Working"]
         Investor["💰 Investor<br/>❌ Not Built"]
     end
-```
+
     subgraph Frontend["🖥️ FRONTEND - Next.js 15 + React 19"]
         direction TB
         Pages["Pages"]
@@ -99,3 +99,4 @@ flowchart TB
     style Partial fill:#ffaa00,color:#000
     style NotifyActions fill:#ffaa00,color:#000
     style Documents fill:#ffaa00,color:#000
+```
