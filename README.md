@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
     subgraph Users["👥 USERS"]
         direction LR
@@ -6,7 +7,7 @@ flowchart TB
         Admin["👑 Admin<br/>✅ Working"]
         Investor["💰 Investor<br/>❌ Not Built"]
     end
-
+```
     subgraph Frontend["🖥️ FRONTEND - Next.js 15 + React 19"]
         direction TB
         Pages["Pages"]
